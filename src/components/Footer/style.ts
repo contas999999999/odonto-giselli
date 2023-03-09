@@ -19,6 +19,10 @@ h4, h2{
   font-weight: 700;
 }
 
+.contacts{
+  width: 500px;
+}
+
 .phone{
   display: flex;
   flex-direction: column;
@@ -33,5 +37,8 @@ h4, h2{
   text-align: center;
   padding: 2%;
   justify-content: center;
+  .contacts{
+    width: auto;
+  }
   }
 `
