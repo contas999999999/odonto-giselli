@@ -77,7 +77,7 @@ export default function Home(props:any) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="keywords" content='Dentista SBC, Harmonização facial SBC, Dentista São Bernardo do Campo, Harmonização facial São Bernardo do Campo, Dentista Rudge Ramos, Harmonização facial Rudge Ramos, Dra Giselli Alves'/>
       </Head>
-      /* <DiscountPopup props={data} /> */
+     <DiscountPopup props={data} />
       <NavBar/>
       <MainContainer props={data}/>
       <About/>
