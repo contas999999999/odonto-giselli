@@ -6,7 +6,7 @@ import Link from 'next/link';
 import {AiFillCloseCircle} from 'react-icons/ai';
 
 export default function DiscountPopup(data:any) {
-  const [showPopup, setShowPopup] = useState(false); //mudar estado
+  const [showPopup, setShowPopup] = useState(true); //mudar estado
 
   let list = data.props.allPopups
 
