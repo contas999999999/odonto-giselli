@@ -34,7 +34,6 @@ export default function Footer(){
             <h4>ENDEREÇO</h4>
             <span>Rua Brasil 1170, sala 52 - Edifício Emídio Borges Rudge Ramos, São Bernado do Campo - Estacionamento gratuito</span>
             
-<iframe src=”https://www.google.com.br/maps/place/R.+Brasil,+1170+-+sala+52+-+Rudge+Ramos,+S%C3%A3o+Bernardo+do+Campo+-+SP,+09627-000/@-23.6550831,-46.5712004,17z/data=!3m1!4b1!4m6!3m5!1s0x94ce433c178aac79:0xa2a6c4fb1e0df299!8m2!3d-23.6550831!4d-46.5686255!16s%2Fg%2F11rc9mwy4q?entry=ttu” width=”600” height=”450” frameborder=”0” style=”border:0;” allowfullscreen=”" aria-hidden="false" tabindex="0"></iframe>
           </div>
           </div>
     </Styled.Footer>
