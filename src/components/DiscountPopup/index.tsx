@@ -20,7 +20,7 @@ export default function DiscountPopup(data:any) {
 
   // Oculta a popup e define que ela não deve ser exibida novamente
   function handleHidePopup() {
-    setShowPopup(false);
+    setShowPopup(true);
     localStorage.setItem('hasSeenDiscountPopup', 'true');
   }
 
