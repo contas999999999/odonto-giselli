@@ -5,7 +5,7 @@ export default function Document() {
 
   return (
     <Html lang="pt-br">
-      <Head />
+      <Head>
       <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-S6CJ4JVQTX"></script>
 <script>
@@ -15,7 +15,7 @@ export default function Document() {
 
   gtag('config', 'G-S6CJ4JVQTX');
 </script>
-      
+          <Head />
       <body >
         <Main />
         <NextScript />
