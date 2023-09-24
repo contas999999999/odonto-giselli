@@ -33,7 +33,9 @@ export default function Footer(){
           <div className='location'>
             <h4>ENDEREÇO</h4>
             <span>Rua Brasil 1170, sala 52 - Edifício Emídio Borges Rudge Ramos, São Bernado do Campo</span>
-             <span> Estacionamento gratuito</span>
+<div className='Estacionamento'>
+            <h4>Estacionamento</h4>
+            <span> Estacionamento gratuito</span>
             
           </div>
           </div>
