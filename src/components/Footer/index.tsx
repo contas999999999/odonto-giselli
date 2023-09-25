@@ -39,7 +39,7 @@ export default function Footer(){
             <span> Estacionamento gratuito</span>
              </div>
           </div>
-          </div>
+     
     </Styled.Footer>
   )
 }
