@@ -24,19 +24,16 @@ export default function Footer(){
             <span>Todos os direitos reservados.</span>
           </div>
         </div>
-      
         <div className='contacts'>
           <div className='phone'>
             <h4>LIGUE</h4>
             <span>(11) 96920-0258</span>
             <span>(11) 3412-3120</span>
           </div>
-          
           <div className='location'>
             <h4>ENDEREÇO</h4>
             <span>Rua Brasil 1170, sala 52 - Edifício Emídio Borges Rudge Ramos, São Bernado do Campo</span>
                  </div>
-              </div>
           <div className='Estacionamento'>
             <h4>Estacionamento</h4>
             <span> Estacionamento gratuito</span>
