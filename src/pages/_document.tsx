@@ -15,7 +15,7 @@ export default function Document() {
 
   gtag('config', 'G-S6CJ4JVQTX');
 </script>
-          <Head />
+      </Head>
       <body >
         <Main />
         <NextScript />
