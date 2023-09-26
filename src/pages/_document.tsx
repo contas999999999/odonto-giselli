@@ -5,7 +5,11 @@ export default function Document() {
 
   return (
     <Html lang="pt-br">
-     <body/>
-    </Html>
+    <Head />
+    <body >
+      <Main />
+      <NextScript />
+    </body>
+  </Html>
   )
 }
